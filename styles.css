@@ -1,0 +1,28 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+
+.main-title {
+  color: red;
+  background-color: yellow;
+  text-align: center;
+}
+
+#recipe-list {
+  background-color: rgb(220, 201, 255);
+}
+
+.recipe-link {
+  color: orange;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.recipe-title {
+  color: red;
+}
+
+.food-image {
+  width: auto;
+  height: 500px;
+}
